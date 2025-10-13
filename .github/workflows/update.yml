@@ -1,5 +1,4 @@
 name: Update today xin wen lian bo
-
 on:
   workflow_dispatch:
   schedule:
